@@ -15,6 +15,6 @@ public class Constants {
     public static final int MODIFY_PERMITES = 5;
     public static final int MODIFY_ALL = 6;
     public static final int SYSTEM_ADMIN = 1;
-    public static final int CUSTOMER = 2;
-    public static final int HOTEL_ADMIN = 3;
+    public static final int CUSTOMER = 3;
+    public static final int HOTEL_ADMIN = 2;
 }
